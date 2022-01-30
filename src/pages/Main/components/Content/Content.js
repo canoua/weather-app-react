@@ -1,10 +1,10 @@
 
 import React from 'react';
 
-function Main() {
+function Content() {
   return(
     <div>Main</div>
   )
 }
 
-export default Main;
+export default Content;
