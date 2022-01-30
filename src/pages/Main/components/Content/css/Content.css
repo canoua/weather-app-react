@@ -1,0 +1,23 @@
+.Content {
+  margin-bottom: 218px;
+}
+
+.Content__title {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 180px;
+  line-height: 216px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.Content__info {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  color: #FFFFFF;
+}

@@ -1,0 +1,25 @@
+.Footer-inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Footer__box_title {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  mix-blend-mode: normal;
+  opacity: 0.6;
+  margin-bottom: 10px;
+}
+
+.Footer__box_description {
+  font-family: 'Lato', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  color: #FFFFFF;
+}
